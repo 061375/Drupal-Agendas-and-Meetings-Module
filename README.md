@@ -4,7 +4,11 @@
 
 ### About
 
-This is part of a module I built for a client in Diamond Bar, California.
+This is part of a module I built for a client MSRC in Diamond Bar, California.
+
+http://www.cleantransportationfunding.org/
+
+** At the time of this posting our version of this website is in production - slated for release in August 2017
 
 This isn't the full module, its only the Agendas and Meetings part.
 

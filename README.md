@@ -1,12 +1,16 @@
-# MSRC 
-2017 website upgrade module base
+# Drupal Agendas and Meetings Module 
 
-## Copyright 2017 Geographics
+## By Jeremy Heminger 2017 
 
-http://www.geocreativelab.com 
+### About
 
-### Jeremy Heminger 
+This is part of a module I built for a client in Diamond Bar, California.
 
-### Versioning
+This isn't the full module, its only the Agendas and Meetings part.
 
-1.0.0.1 
+I rebranded it for display and it hasn't been tested yet since that change.
+
+Mostly this, as with much of my repository, is simply an augmentation to my resume.
+
+### Usage
+

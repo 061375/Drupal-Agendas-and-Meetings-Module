@@ -4,7 +4,7 @@
 
 ### About
 
-This is part of a module I built for a client MSRC in Diamond Bar, California.
+This is part of a module I built for a client: MSRC in Diamond Bar, California.
 
 http://www.cleantransportationfunding.org/
 

@@ -1,0 +1,6 @@
+name: MSRC Module
+description: Base Module to handle what Drupal cannot, out of the box
+core: 8.x
+type: module
+package: msrc
+version: 1.0

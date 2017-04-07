@@ -1,0 +1,10 @@
+agendas_meetings_lib:
+  version: 1.x
+  js:
+    js/script.js: {}
+    #_/components/js/_msrc.js: {}
+    #_/components/js/script.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupal.ajax

@@ -1,0 +1,4 @@
+<?php
+function agendas_meetings_preprocess_page(&$variables) {
+  $variables['#attached']['library'][] = 'agendas-meetings/agendas_meetings_lib';
+}

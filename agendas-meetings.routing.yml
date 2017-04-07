@@ -1,0 +1,8 @@
+msrc.content:
+  path: '/agendas-meetings/{method}/{function}'
+  defaults:
+    _controller: '\Drupal\agendas-meetings\Ajax\ACMEajaxController::ajaxEvents'
+    _title: 'ACME Ajax'
+  requirements:
+    _permission: 'access content'
+    method: 'nojs|ajax'

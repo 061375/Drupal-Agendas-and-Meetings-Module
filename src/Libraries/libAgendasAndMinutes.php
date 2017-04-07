@@ -7,7 +7,7 @@ use Drupal\agendas-meetings\Model\mdlAgendasAndMinutes;
  *
  * libAgendasAndMinutes
  *
- * @author Jeremy Heminger c/o Geographics <inbox@geomail.info>
+ * @author Jeremy Heminger 
  * @version 1.0.0
  *
  * */

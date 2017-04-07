@@ -27,4 +27,4 @@ var show_log = true;
     }
     ACME.KeyBindings($);
     $.logThis('acme module js loaded'); 
-})(jQuery, Drupal, drupalSettings, ACME);
+})(jQuery, Drupal, drupalSettings, ACME); 

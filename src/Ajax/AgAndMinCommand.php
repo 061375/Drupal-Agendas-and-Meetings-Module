@@ -4,10 +4,13 @@ use Drupal\Core\Ajax\CommandInterface;
 use Drupal\agendas-meetings\Model\mdlAgendasAndMinutes;
 use Drupal\agendas-meetings\Libraries\libAgendasAndMinutes;
 use Drupal\agendas-meetings\Libraries\General;
-/** 
- * 
- * 
- * 
+/**
+ *
+ * AgAndMinCommand
+ *
+ * @author Jeremy Heminger 
+ * @version 1.0.0
+ *
  * */
 class AgAndMinCommand implements CommandInterface {
 	
